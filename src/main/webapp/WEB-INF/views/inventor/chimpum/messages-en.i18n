@@ -1,0 +1,25 @@
+inventor.chimpum.list.label.code = Code
+inventor.chimpum.list.label.description = Description
+inventor.chimpum.list.label.initPeriod = Initial Period
+inventor.chimpum.list.label.finalPeriod = Final Period
+inventor.chimpum.list.label.budget = Budget
+
+inventor.chimpum.form.label.code = Code
+inventor.chimpum.form.label.description = Description
+inventor.chimpum.form.label.initPeriod = Initial Period
+inventor.chimpum.form.label.finalPeriod  = Final Period
+inventor.chimpum.form.label.creationMoment = Creation Moment
+inventor.chimpum.form.label.budget = Budget
+inventor.chimpum.form.label.moneyExchange = Budget Exchange
+inventor.chimpum.list.label.link = link
+inventor.chimpum.form.submit.update = Update
+inventor.chimpum.form.submit.delete = Delete
+
+inventor.chimpum.form.submit.create = Create
+inventor.chimpum.form.submit.update.chimpum = Update
+
+inventor.chimpum.form.label.budget.positive.error = Budget must be 0 or more
+inventor.chimpum.form.error.currency = Currency not valid
+inventor.chimpum.form.label.period.month.error = Initial period must be at least one month ahead 
+inventor.chimpum.form.label.period.week.error = Period must be one week long
+inventor.chimpum.error.duplicated = This code is in used
